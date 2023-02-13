@@ -1,0 +1,5 @@
+/Users/chidiebubesamuel/Projects/UnicornShop/UnicornShop.application/obj/Debug/net7.0/UnicornShop.Application.csproj.AssemblyReference.cache
+/Users/chidiebubesamuel/Projects/UnicornShop/UnicornShop.application/obj/Debug/net7.0/UnicornShop.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chidiebubesamuel/Projects/UnicornShop/UnicornShop.application/obj/Debug/net7.0/UnicornShop.Application.AssemblyInfoInputs.cache
+/Users/chidiebubesamuel/Projects/UnicornShop/UnicornShop.application/obj/Debug/net7.0/UnicornShop.Application.AssemblyInfo.cs
+/Users/chidiebubesamuel/Projects/UnicornShop/UnicornShop.application/obj/Debug/net7.0/UnicornShop.Application.csproj.CoreCompileInputs.cache

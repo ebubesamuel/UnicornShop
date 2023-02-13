@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{2E13959E-140A-40C6-8703-9519F1863BE1}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="UnicornShop.Infrastructure/Class1.cs">
+    <Files>
+      <File FileName="UnicornShop.web/Properties/launchSettings.json" />
+      <File FileName="UnicornShop.Application/Class1.cs" />
+      <File FileName="UnicornShop.Infrastructure/Class1.cs" Line="1" Column="1" />
+      <File FileName="UnicornShop.Application/Models/SHoppingCartStatus.cs" />
+      <File FileName="UnicornShop.Application/Models/ShoppingCartItem.cs" />
+      <File FileName="UnicornShop.Application/Models/ShoppingCart.cs" />
+      <File FileName="UnicornShop.Application/Models/Productstatus.cs" />
+      <File FileName="UnicornShop.Application/Models/Products.cs" />
+      <File FileName="UnicornShop.Application/Models/Price.cs" />
+      <File FileName="UnicornShop.web/Program.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="UnicornShop" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.UnicornShop.web PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.ItemProperties.UnicornShop.Web FirstBuild="True" PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.UnicornShop.Application FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.UnicornShop.Infrastructure FirstBuild="True" />
+</Properties>
