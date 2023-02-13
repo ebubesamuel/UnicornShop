@@ -23,11 +23,8 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.UnicornShop.web PreferredExecutionTarget="/Applications/Safari.app" />
   <MonoDevelop.Ide.ItemProperties.UnicornShop.Web FirstBuild="True" PreferredExecutionTarget="/Applications/Safari.app" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.UnicornShop.Application FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.UnicornShop.Infrastructure FirstBuild="True" />
 </Properties>
